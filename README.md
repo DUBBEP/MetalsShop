@@ -1,2 +1,6 @@
 # ToyChemistry
- A small project that utilizes the factory pattern to create as mall chemistry lab
+ A small project that utilizes the factory pattern to create as mall Metals Shop
+
+ Build:
+
+ Music Used: https://www.youtube.com/watch?v=nG7PbBObH8E
